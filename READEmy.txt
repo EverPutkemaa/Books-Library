@@ -1,0 +1,23 @@
+{
+    "title": "Häkkeritõrje käsiraamat",
+    "author": "Robert Schifreena",
+    "isbn": "9789949182619"
+}
+
+{
+    "title": "Arvutiõpik algajale Windows XP",
+    "author": "Tiit Tilk",
+    "isbn": "9985788818"
+}
+
+{
+    "title": "Arvuti ehitamine võhikutele",
+    "author": "Mark L. Chambers",
+    "isbn": "9949138701"
+}
+
+{
+    "title": "Facebook",
+    "author": "David Kirkpatrick",
+    "isbn": "9789949302826"
+}
